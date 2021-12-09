@@ -8,7 +8,7 @@ password = "replace this string"
 domain = "replace this string" # eg: https://example.com
 
 # replace port number with your port number
-port = 8090 # you can find it in the login url eg : https://example.com:8090/httpclient.html 
+port = 8090 # you can find it in the login url eg : https://gateway.example.com:8090/httpclient.html 
 
 
 
