@@ -1,2 +1,2 @@
-# sophosxg-wifi-login
+# BHEEMAN
 Use this script to automate login process to SophosXG firewalled wifi network
